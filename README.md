@@ -3,5 +3,7 @@ for a given network packet, we verify the packet by an AI model(ET-BERT) and sho
 codes are run from google-colab  
 
 # Settings
+'''py
 !pip install streamlit pyngro  
 !apt-get install -y tshark
+'''
