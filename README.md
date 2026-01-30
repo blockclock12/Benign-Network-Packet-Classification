@@ -2,14 +2,15 @@
 for a given network packet, we verify the packet by an AI model(ET-BERT) and show the information about the packet how dangerous it is and other details  
 codes are run from google-colab  
 
-# Settings for application
+## Settings for application
 ```python  
 !pip install streamlit pyngro  
 !apt-get install -y tshark  
 ```
 
-# Settings for model training
+## Settings for model training
 We used code from [ET-BERT](https://github.com/linwhitehat/ET-BERT)
+the execution code be like...
 ```python
 !python3 /content/drive/MyDrive/ET-BERT-main/fine-tuning/run_classifier.py --pretrained_model_path /content/drive/MyDrive/ET-BERT-main/models/pre-trained_model.bin \
                                    --output_model_path /content/drive/MyDrive/ET-BERT-main/models/output_model.bin \
@@ -23,12 +24,12 @@ We used code from [ET-BERT](https://github.com/linwhitehat/ET-BERT)
                                    --seq_length 128 --learning_rate 2e-5
 ```
 
-# Code using order
+## Code using order
 1. train model by datasets and get model file
 2. run app.py to run an application
 3. run authorization_ngrok.py to run server and connect ngrok
 
-# Datasets
+## Datasets
 We merged 3 different datasets of malicious and benign packet
 1. CICIDS2018
 2. NSL-KDD
