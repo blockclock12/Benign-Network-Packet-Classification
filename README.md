@@ -42,3 +42,4 @@ We merged 3 different datasets of malicious and benign packet
 [you can get trained-model file here](https://drive.google.com/file/d/1sf1gK-DmWTOscYO2ejTtmK30Z3mpCigb/view)  
 [app running colab environment](https://colab.research.google.com/drive/16azfijc3aZQONIrOUFA8y0itaCXqnSLS?usp=sharing#scrollTo=C0Kq5RGzmgIX)  
 [dataset merge colab environment](https://colab.research.google.com/drive/1svKCuhvnzxU_1nDqZ1ST8ZWZb_gmsB7U?usp=sharing)  
+[benign packet dataset](https://drive.google.com/file/d/1Gtj4mJ3WVUrTuiV34SI0lkWI_-8t9tn0/view)
