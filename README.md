@@ -37,6 +37,10 @@ We merged 3 different datasets of malicious and benign packet
 3. CTU-13
 
 
+
+## result
+<img width="1017" height="674" alt="스크린샷 2026-01-30 122825" src="https://github.com/user-attachments/assets/cc8dc24e-0dee-4112-85b7-7dc20d9e394b" />
+
 ## files
 [ET-BERT link](https://github.com/linwhitehat/ET-BERT)  
 [you can get trained-model file here](https://drive.google.com/file/d/1sf1gK-DmWTOscYO2ejTtmK30Z3mpCigb/view)  
