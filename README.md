@@ -25,9 +25,10 @@ the execution code be like...
 ```
 
 ## Code using order
-1. train model by datasets and get model file
-2. run app.py to run an application
-3. run authorization_ngrok.py to run server and connect ngrok
+1. merge and split datasets as you need
+2. train model by datasets and get model file
+3. run app.py to run an application
+4. run authorization_ngrok.py to run server and connect ngrok
 
 ## Datasets
 We merged 3 different datasets of malicious and benign packet
